@@ -1,8 +1,4 @@
-# Eyecharts.org
-EyeCharts
-
-Creative commons license:
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+# User-guide
 
 Hands optotypes are .TTF file.
 
